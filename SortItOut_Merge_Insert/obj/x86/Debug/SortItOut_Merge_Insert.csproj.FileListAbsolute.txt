@@ -1,0 +1,6 @@
+/Users/EDGUIV/Projects/SortItOut_Merge_Insert/SortItOut_Merge_Insert/bin/Debug/SortItOut_Merge_Insert.exe
+/Users/EDGUIV/Projects/SortItOut_Merge_Insert/SortItOut_Merge_Insert/bin/Debug/SortItOut_Merge_Insert.pdb
+/Users/EDGUIV/Projects/SortItOut_Merge_Insert/SortItOut_Merge_Insert/obj/x86/Debug/SortItOut_Merge_Insert.csprojAssemblyReference.cache
+/Users/EDGUIV/Projects/SortItOut_Merge_Insert/SortItOut_Merge_Insert/obj/x86/Debug/SortItOut_Merge_Insert.csproj.CoreCompileInputs.cache
+/Users/EDGUIV/Projects/SortItOut_Merge_Insert/SortItOut_Merge_Insert/obj/x86/Debug/SortItOut_Merge_Insert.exe
+/Users/EDGUIV/Projects/SortItOut_Merge_Insert/SortItOut_Merge_Insert/obj/x86/Debug/SortItOut_Merge_Insert.pdb

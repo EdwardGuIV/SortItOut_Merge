@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9F267F0E-A241-4DA7-92DF-EC959C802ECA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SortItOut_Merge_Insert/Program.cs">
+    <Files>
+      <File FileName="SortItOut_Merge_Insert/Program.cs" Line="10" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SortItOut__Merge__Insert PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
